@@ -1,8 +1,0 @@
-{
-  "version": "4.0",
-  "datasetReference": {
-    "byPath": {
-      "path": "../LuisNativi_00200022_dash.SemanticModel"
-    }
-  }
-}
