@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "LuisNativi_00200022_dash"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "76470983-c77c-43cc-8fb5-1b2210a09ed8"
+  }
+}
